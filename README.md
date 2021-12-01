@@ -7,7 +7,7 @@ performing statistical data analysis and machine learning modelling.
 ###  👩‍🦳  Pronouns
 She/Her
 
-### 📫 How to reach me?
+### ✉️  How to reach me?
 
 - [LinkedIn](https://www.linkedin.com/in/data-geoscientist/) 
 
